@@ -1,0 +1,281 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1671956243764,9905, PATCH Request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,jp@gc - Ultimate Thread Group 1-18,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: java.net.SocketException]]]
+
+****** comparison: [[[200                                             ]]]
+
+/",3172,0,40,40,https://jsonplaceholder.typicode.com/posts/1,0,0,0
+1671956243645,10025,DELETE Request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,jp@gc - Ultimate Thread Group 1-8,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: java.net.SocketException]]]
+
+****** comparison: [[[200                                             ]]]
+
+/",3172,0,40,40,https://jsonplaceholder.typicode.com/posts/1,0,0,0
+1671956243737,9933, PUT Request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,jp@gc - Ultimate Thread Group 1-16,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: java.net.SocketException]]]
+
+****** comparison: [[[200                                             ]]]
+
+/",3172,0,39,39,https://jsonplaceholder.typicode.com/posts/1,0,0,0
+1671956243582,10088,DELETE Request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,jp@gc - Ultimate Thread Group 1-10,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: java.net.SocketException]]]
+
+****** comparison: [[[200                                             ]]]
+
+/",3172,0,39,39,https://jsonplaceholder.typicode.com/posts/1,0,0,0
+1671956243796,9875, PUT Request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,jp@gc - Ultimate Thread Group 1-4,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: java.net.SocketException]]]
+
+****** comparison: [[[200                                             ]]]
+
+/",3172,0,36,36,https://jsonplaceholder.typicode.com/posts/1,0,0,0
+1671956243762,9910,DELETE Request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,jp@gc - Ultimate Thread Group 1-35,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: java.net.SocketException]]]
+
+****** comparison: [[[200                                             ]]]
+
+/",3172,0,35,35,https://jsonplaceholder.typicode.com/posts/1,0,0,0
+1671956243808,9864,DELETE Request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,jp@gc - Ultimate Thread Group 1-32,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: java.net.SocketException]]]
+
+****** comparison: [[[200                                             ]]]
+
+/",3172,0,34,34,https://jsonplaceholder.typicode.com/posts/1,0,0,0
+1671956243789,9884, PUT Request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,jp@gc - Ultimate Thread Group 1-2,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: java.net.SocketException]]]
+
+****** comparison: [[[200                                             ]]]
+
+/",3172,0,33,33,https://jsonplaceholder.typicode.com/posts/1,0,0,0
+1671956243690,9983, PUT Request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,jp@gc - Ultimate Thread Group 1-29,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: java.net.SocketException]]]
+
+****** comparison: [[[200                                             ]]]
+
+/",3172,0,32,32,https://jsonplaceholder.typicode.com/posts/1,0,0,0
+1671956243655,10019,DELETE Request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,jp@gc - Ultimate Thread Group 1-24,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: java.net.SocketException]]]
+
+****** comparison: [[[200                                             ]]]
+
+/",3172,0,32,32,https://jsonplaceholder.typicode.com/posts/1,0,0,0
+1671956243623,10051,DELETE Request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,jp@gc - Ultimate Thread Group 1-34,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: java.net.SocketException]]]
+
+****** comparison: [[[200                                             ]]]
+
+/",3172,0,30,30,https://jsonplaceholder.typicode.com/posts/1,0,0,0
+1671956243837,9837,GET Request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,jp@gc - Ultimate Thread Group 1-36,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: java.net.SocketException]]]
+
+****** comparison: [[[200                                             ]]]
+
+/",2362,0,30,30,https://jsonplaceholder.typicode.com/posts/1,0,0,9837
+1671956243795,9881, POST Request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,jp@gc - Ultimate Thread Group 1-26,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: java.net.SocketException]]]
+
+****** comparison: [[[201                                             ]]]
+
+/",3172,0,28,28,https://jsonplaceholder.typicode.com/posts,0,0,0
+1671956243796,9880,DELETE Request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,jp@gc - Ultimate Thread Group 1-33,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: java.net.SocketException]]]
+
+****** comparison: [[[200                                             ]]]
+
+/",3172,0,27,27,https://jsonplaceholder.typicode.com/posts/1,0,0,0
+1671956243779,9898,DELETE Request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,jp@gc - Ultimate Thread Group 1-6,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: java.net.SocketException]]]
+
+****** comparison: [[[200                                             ]]]
+
+/",3172,0,27,27,https://jsonplaceholder.typicode.com/posts/1,0,0,0
+1671956243668,10010, PUT Request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,jp@gc - Ultimate Thread Group 1-3,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: java.net.SocketException]]]
+
+****** comparison: [[[200                                             ]]]
+
+/",3172,0,25,25,https://jsonplaceholder.typicode.com/posts/1,0,0,0
+1671956243677,10001, PUT Request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,jp@gc - Ultimate Thread Group 1-39,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: java.net.SocketException]]]
+
+****** comparison: [[[200                                             ]]]
+
+/",3172,0,24,24,https://jsonplaceholder.typicode.com/posts/1,0,0,0
+1671956243765,9914, POST Request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,jp@gc - Ultimate Thread Group 1-25,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: java.net.SocketException]]]
+
+****** comparison: [[[201                                             ]]]
+
+/",3172,0,23,23,https://jsonplaceholder.typicode.com/posts,0,0,0
+1671956243828,9851,GET Request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,jp@gc - Ultimate Thread Group 1-11,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: java.net.SocketException]]]
+
+****** comparison: [[[200                                             ]]]
+
+/",3244,0,22,22,https://jsonplaceholder.typicode.com/posts/1,0,0,9851
+1671956243580,10101,DELETE Request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,jp@gc - Ultimate Thread Group 1-12,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: java.net.SocketException]]]
+
+****** comparison: [[[200                                             ]]]
+
+/",3172,0,21,21,https://jsonplaceholder.typicode.com/posts/1,0,0,0
+1671956243582,10099, POST Request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,jp@gc - Ultimate Thread Group 1-15,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: java.net.SocketException]]]
+
+****** comparison: [[[201                                             ]]]
+
+/",3172,0,20,20,https://jsonplaceholder.typicode.com/posts,0,0,0
+1671956243803,9878, PUT Request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,jp@gc - Ultimate Thread Group 1-38,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: java.net.SocketException]]]
+
+****** comparison: [[[200                                             ]]]
+
+/",3172,0,21,21,https://jsonplaceholder.typicode.com/posts/1,0,0,0
+1671956243816,9867,DELETE Request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,jp@gc - Ultimate Thread Group 1-5,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: java.net.SocketException]]]
+
+****** comparison: [[[200                                             ]]]
+
+/",3172,0,19,19,https://jsonplaceholder.typicode.com/posts/1,0,0,0
+1671956243828,9855, PUT Request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,jp@gc - Ultimate Thread Group 1-27,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: java.net.SocketException]]]
+
+****** comparison: [[[200                                             ]]]
+
+/",3172,0,17,17,https://jsonplaceholder.typicode.com/posts/1,0,0,0
+1671956243779,9904, PATCH Request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,jp@gc - Ultimate Thread Group 1-31,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: java.net.SocketException]]]
+
+****** comparison: [[[200                                             ]]]
+
+/",3172,0,18,18,https://jsonplaceholder.typicode.com/posts/1,0,0,0
+1671956243588,10096, PUT Request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,jp@gc - Ultimate Thread Group 1-30,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: java.net.SocketException]]]
+
+****** comparison: [[[200                                             ]]]
+
+/",3172,0,16,16,https://jsonplaceholder.typicode.com/posts/1,0,0,0
+1671956243724,9961, PUT Request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,jp@gc - Ultimate Thread Group 1-28,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: java.net.SocketException]]]
+
+****** comparison: [[[200                                             ]]]
+
+/",3172,0,14,14,https://jsonplaceholder.typicode.com/posts/1,0,0,0
+1671956243664,10021, PUT Request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,jp@gc - Ultimate Thread Group 1-17,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: java.net.SocketException]]]
+
+****** comparison: [[[200                                             ]]]
+
+/",3172,0,15,15,https://jsonplaceholder.typicode.com/posts/1,0,0,0
+1671956243817,9869,DELETE Request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,jp@gc - Ultimate Thread Group 1-7,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: java.net.SocketException]]]
+
+****** comparison: [[[200                                             ]]]
+
+/",3172,0,12,12,https://jsonplaceholder.typicode.com/posts/1,0,0,0
+1671956243735,9952, PATCH Request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,jp@gc - Ultimate Thread Group 1-19,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: java.net.SocketException]]]
+
+****** comparison: [[[200                                             ]]]
+
+/",3172,0,13,12,https://jsonplaceholder.typicode.com/posts/1,0,0,0
+1671956243772,9916, PUT Request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,jp@gc - Ultimate Thread Group 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: java.net.SocketException]]]
+
+****** comparison: [[[200                                             ]]]
+
+/",3172,0,10,10,https://jsonplaceholder.typicode.com/posts/1,0,0,0
+1671956243811,9877,DELETE Request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,jp@gc - Ultimate Thread Group 1-21,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: java.net.SocketException]]]
+
+****** comparison: [[[200                                             ]]]
+
+/",3172,0,10,10,https://jsonplaceholder.typicode.com/posts/1,0,0,0
+1671956243805,9884, PATCH Request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,jp@gc - Ultimate Thread Group 1-40,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: java.net.SocketException]]]
+
+****** comparison: [[[200                                             ]]]
+
+/",3172,0,8,8,https://jsonplaceholder.typicode.com/posts/1,0,0,0
+1671956243783,9907,GET Request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,jp@gc - Ultimate Thread Group 1-9,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: java.net.SocketException]]]
+
+****** comparison: [[[200                                             ]]]
+
+/",3172,0,8,8,https://jsonplaceholder.typicode.com/posts/1,0,0,53
+1671956243677,10013,DELETE Request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,jp@gc - Ultimate Thread Group 1-22,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: java.net.SocketException]]]
+
+****** comparison: [[[200                                             ]]]
+
+/",3172,0,7,7,https://jsonplaceholder.typicode.com/posts/1,0,0,0
+1671956243771,9919,GET Request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,jp@gc - Ultimate Thread Group 1-23,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: java.net.SocketException]]]
+
+****** comparison: [[[200                                             ]]]
+
+/",3172,0,5,5,https://jsonplaceholder.typicode.com/posts/1,0,0,68
+1671956243640,10053, POST Request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,jp@gc - Ultimate Thread Group 1-37,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: java.net.SocketException]]]
+
+****** comparison: [[[201                                             ]]]
+
+/",3172,0,4,4,https://jsonplaceholder.typicode.com/posts,0,0,0
+1671956243685,10009, POST Request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,jp@gc - Ultimate Thread Group 1-14,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: java.net.SocketException]]]
+
+****** comparison: [[[201                                             ]]]
+
+/",3172,0,3,3,https://jsonplaceholder.typicode.com/posts,0,0,0
+1671956243783,9910, POST Request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,jp@gc - Ultimate Thread Group 1-13,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: java.net.SocketException]]]
+
+****** comparison: [[[201                                             ]]]
+
+/",3172,0,3,3,https://jsonplaceholder.typicode.com/posts,0,0,0
+1671956243592,10102, PATCH Request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,jp@gc - Ultimate Thread Group 1-20,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: java.net.SocketException]]]
+
+****** comparison: [[[200                                             ]]]
+
+/",3172,0,2,2,https://jsonplaceholder.typicode.com/posts/1,0,0,0
