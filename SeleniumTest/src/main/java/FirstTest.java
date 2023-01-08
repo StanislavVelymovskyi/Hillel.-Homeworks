@@ -11,7 +11,7 @@ public class FirstTest {
 
     @Test
    void checkAddToBasketMinPaymentSum(){
-        driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(3));
+       driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(3));
        driver.get("https://next.privat24.ua/money-transfer/card");
        driver
                .findElement(By.xpath("//input[@data-qa-node='numberdebitSource']"))
@@ -40,10 +40,10 @@ public class FirstTest {
        driver
                .findElement(By.xpath("//input[@data-qa-node='amount']"))
                .sendKeys("1");
-        driver
+       driver
                 .findElement(By.xpath("//button[@data-qa-node='currency']"))
                 .click();
-        driver
+       driver
                 .findElement(By.xpath("//button[@data-qa-value='UAH'and@data-qa-node='currency-option']"))
                 .click();
        driver
